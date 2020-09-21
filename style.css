@@ -1,6 +1,12 @@
+body {
+	margin:150;
+}
+
 #logo {
 	width: 150px;
-
+}
+.banner {
+	text-align: center;
 }
 
 h1 {
